@@ -1,0 +1,9 @@
+-make backend
+	-home page
+	-profile pic
+	-text writing
+-make pics
+	-app logo
+	-def person logo
+	-love logo
+	-buttons
