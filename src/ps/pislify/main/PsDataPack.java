@@ -9,6 +9,6 @@ public class PsDataPack
     public PsDataPack()
     {
         ps_gfx_persontexture_def = LoadTexture(ps_path_gfx_persontexture_def);
-        ps_gfx_bgtexture = LoadTexture()
+        ps_gfx_bgtexture = LoadTexture(ps_path_gfx_bgtexture);
     }
 }
