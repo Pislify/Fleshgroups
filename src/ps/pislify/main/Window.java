@@ -31,7 +31,7 @@ public class Window
             flesh.ps_Flesh();
 
 
-            ClearBackground(ps_ut_CreateColor((byte)200,(byte)200,(byte)200,(byte)255));
+            ClearBackground(ps_ut_CreateColor((byte)50,(byte)50,(byte)75,(byte)255));
             EndDrawing();
         }
     }
